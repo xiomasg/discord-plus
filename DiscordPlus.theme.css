@@ -18,7 +18,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://i.imgur.com/3AiL3yN.png);
+  --dplus-backdrop: url(https://cdn.discordapp.com/attachments/976248284056276993/1103675962543050822/background.png);
 
 /* Accent color, used to decorate the UI with colors. */
   --dplus-accent-color-hue: 320;
@@ -60,9 +60,9 @@
 :root {
 /* Fonts */
 /* You can use any installed font on your device. */
-  --dplus-font-ui: 'Poppins';
-  --dplus-font-body: 'Roboto';
-  --dplus-font-header: 'Righteous';
+  --dplus-font-ui: 'Inter';
+  --dplus-font-body: 'Inter';
+  --dplus-font-header: 'Inter';
 
 /* Round corner sizes, measured in pixel radius.
 Set avatar/server radius to 50% to make them circular.
@@ -86,6 +86,6 @@ Set avatar/server radius to 50% to make them circular.
 --dplus-icon-server-list: 32px;
 
 /* The Home icon on the top left */
---dplus-icon-home-dark: url(https://plusinsta.github.io/discord-plus/assets/discord/home_dark.svg);
+--dplus-icon-home-dark: url(https://www.iconsdb.com/icons/download/orange/plus-128.png);
 --dplus-icon-home-light: url(https://plusinsta.github.io/discord-plus/assets/discord/home_light.svg);
 }
