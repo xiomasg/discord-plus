@@ -21,9 +21,9 @@
   --dplus-backdrop: url(https://cdn.discordapp.com/attachments/976248284056276993/1103675962543050822/background.png);
 
 /* Accent color, used to decorate the UI with colors. */
-  --dplus-accent-color-hue: 320;
-  --dplus-accent-color-saturation: 60%;
-  --dplus-accent-color-lightness: 31%;
+  --dplus-accent-color-hue: 24;
+  --dplus-accent-color-saturation: 100%;
+  --dplus-accent-color-lightness: 42%;
 
 /* Foreground color: For things like text and icons. */
   --dplus-foreground-color-hue-base: 210;
